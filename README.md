@@ -15,3 +15,26 @@
 
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
+----------
+소스코드 삽입하기 ₩₩₩ + 프로그래밍 언어 지정
+```javascript
+<script>
+  var now = new Date();
+  var display = new.toLocaleTimeString();
+  document.write("현재 시각은 "+display);
+</script>
+```
+코드 입력 끝!
+
+링크
+1.<링크주소>
+
+2.[링크텍스트](링크주소)
+
+3.[링크텍스트](링크주소,"부가설명")
+
+# 이미지 삽입
+
+1.   ' ! '[이미지 연습용]('링크 주소')  작은 따옴표는 빼고 작성
+
+
