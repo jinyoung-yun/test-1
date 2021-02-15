@@ -39,4 +39,6 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 #### 테스트
 
-![코딩](./images/3-1.png]
+![코딩](/images/3-1.png)
+
+![코딩](./images/3-1.png)
