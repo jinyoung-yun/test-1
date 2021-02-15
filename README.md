@@ -8,3 +8,9 @@
 README.md 연습
 
 edit Mon Feb 15 
+
+
+( markdown ) 에 대해 자세히 알아보려면 아래의 링크를 참조하세요
+
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
